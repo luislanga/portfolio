@@ -4,7 +4,6 @@ import html from "./assets/html.svg"
 import react from "./assets/react.svg"
 import styled from "./assets/styled.svg"
 import node from "./assets/node.svg"
-import express from "./assets/express.svg"
 import sqlite from "./assets/sqlite.svg"
 import jest from "./assets/jest.svg"
 import git from "./assets/git.svg"
@@ -35,10 +34,7 @@ export default {
             name: "Node.js",
             image: node
         },
-        {
-            name: "Express",
-            image: express
-        },
+
         {
             name: "SQLite",
             image: sqlite
