@@ -5,6 +5,7 @@ export const Container = styled.div`
     display: flex;
     gap: 72px;    
     padding: 36px 0px;
+    justify-content: space-between;
 
     & + &{
         border-top: 1px solid rgba(255,255,255,0.3);
