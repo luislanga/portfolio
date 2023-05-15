@@ -45,7 +45,7 @@ export default {
                 },
             ],
             tags: [
-                "React.js", "styled-components", "Node.js", "Express", "IA"
+                "React.js", "styled-components", "Node.js", "Express", "IA", "API"
             ],
             image: formalizador
         }
