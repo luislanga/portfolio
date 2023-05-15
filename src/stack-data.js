@@ -1,4 +1,3 @@
-import npm from "./assets/npm.svg"
 import css from "./assets/css.svg"
 import js from "./assets/js.svg"
 import html from "./assets/html.svg"
@@ -7,7 +6,6 @@ import styled from "./assets/styled.svg"
 import node from "./assets/node.svg"
 import express from "./assets/express.svg"
 import sqlite from "./assets/sqlite.svg"
-import api from "./assets/api.svg"
 import jest from "./assets/jest.svg"
 import git from "./assets/git.svg"
 
@@ -38,20 +36,12 @@ export default {
             image: node
         },
         {
-            name: "npm",
-            image: npm
-        },
-        {
             name: "Express",
             image: express
         },
         {
             name: "SQLite",
             image: sqlite
-        },
-        {
-            name: "API",
-            image: api
         },
         {
             name: "git",
