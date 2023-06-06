@@ -43,9 +43,5 @@ export default {
             name: "git",
             image: git
         },
-        {
-            name: "Jest",
-            image: jest
-        },
     ]
   }
