@@ -15,10 +15,6 @@ export default {
             image: react
         },
         {
-            name: "styled-components",
-            image: styled
-        },
-        {
             name: "JavaScript",
             image: js
         },
@@ -33,11 +29,6 @@ export default {
         {
             name: "Node.js",
             image: node
-        },
-
-        {
-            name: "SQLite",
-            image: sqlite
         },
         {
             name: "git",
